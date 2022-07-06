@@ -3,7 +3,7 @@ layout: default
 ---
 
 # About Me
-I am a Ph.D. student in the Computer Science department at University of Maryland, College Park, advised by Prof. [Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
+I am a Ph.D. student in Department of Computer Science at University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 Before that, I received Bachelors of Science in Computer Science and Mathematics at University of Maryland, College Park with Magna Cum Laude in May 2021.
 
 I am interested in computer vision and machine learning.
@@ -19,3 +19,10 @@ __Yuxin Wen__, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li. "Learning to Discov
 
 # Services
 Reviewer: ICML 2022, NeurIPS 2022
+
+# Contacts
+ywen [ at ] umd [dot] edu
+
+Iribe Center, Office 2116
+8125 Paint Branch Dr, 
+College Park, MD 20742
