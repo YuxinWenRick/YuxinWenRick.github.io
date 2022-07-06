@@ -23,6 +23,6 @@ Reviewer: ICML 2022, NeurIPS 2022
 # Contacts
 ywen [ at ] umd [dot] edu
 
-Iribe Center, Office 2116
-8125 Paint Branch Dr, 
+Iribe Center, Office 2116  
+8125 Paint Branch Dr,  
 College Park, MD 20742
