@@ -3,8 +3,8 @@ layout: default
 ---
 
 # About Me
-I am a Ph.D. student in Department of Computer Science at University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
-Before that, I received Bachelors of Science in Computer Science and Mathematics at University of Maryland, College Park with Magna Cum Laude in May 2021.
+I am a second-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
+Before that, I received Bachelors of Science in Computer Science and Mathematics at the University of Maryland, College Park with Magna Cum Laude in May 2021.
 
 I am interested in computer vision and machine learning.
 
