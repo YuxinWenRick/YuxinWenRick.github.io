@@ -19,10 +19,10 @@ _ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022._
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 __Yuxin Wen\*__, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
-_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022._ 
+_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022._ \\
 \[[arXiv:2202.00580](https://arxiv.org/pdf/2202.00580.pdf)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
-__Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__
+__Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 __Yuxin Wen__, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
 _IEEE International Conference on Big Data, 2019_
 
