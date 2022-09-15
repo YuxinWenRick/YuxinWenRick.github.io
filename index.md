@@ -4,18 +4,27 @@ layout: default
 
 # About Me
 I am a second-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
-Before that, I received Bachelors of Science in Computer Science and Mathematics at the University of Maryland, College Park with Magna Cum Laude in May 2021.
 
-I am interested in computer vision and machine learning.
+I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
 # Publications
-Liam Fowl\*, Jonas Geiping\*, Steven Reich, __Yuxin Wen__, Wojtek Czaja, Micah Goldblum, Tom Goldstein. "Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models." _Under Review._ [arXiv:2201.12675](https://arxiv.org/pdf/2201.12675.pdf).
+__Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__
+Liam Fowl\*, Jonas Geiping\*, Steven Reich, __Yuxin Wen__, Wojtek Czaja, Micah Goldblum, Tom Goldstein \\
+_Under Review._ \\
+[arXiv:2201.12675](https://arxiv.org/pdf/2201.12675.pdf)[code](https://github.com/JonasGeiping/breaching)
 
-__Yuxin Wen\*__, Jonas Geiping*, Liam H Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein. "Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning." _ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022._
+__Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__
+__Yuxin Wen\*__, Jonas Geiping*, Liam H Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
+_ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022._
 
-__Yuxin Wen\*__, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein. "Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification." _Proceedings of the 39th International Conference on Machine Learning (ICML), 2022._ [arXiv:2202.00580](https://arxiv.org/pdf/2202.00580.pdf).
+__Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__
+__Yuxin Wen\*__, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
+_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022._ 
+[arXiv:2202.00580](https://arxiv.org/pdf/2202.00580.pdf)[code](https://github.com/JonasGeiping/breaching)
 
-__Yuxin Wen__, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li. "Learning to Discover Curbside Parking Spaces from Vehicle Trajectories." _IEEE International Conference on Big Data, 2019_.
+__Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__
+__Yuxin Wen__, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
+_IEEE International Conference on Big Data, 2019_
 
 # Services
 Reviewer: ICML 2022, NeurIPS 2022
