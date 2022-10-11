@@ -14,7 +14,7 @@ _Under Review._ \\
 \[[arXiv:2201.12675](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
 __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
-__Yuxin Wen\*__, Jonas Geiping*, Liam H Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
+__Yuxin Wen\*__, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
 _ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022._
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
