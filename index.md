@@ -10,16 +10,16 @@ I am interested in computer vision and machine learning. My current research mai
 # Publications
 __Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__ \\
 Liam Fowl\*, Jonas Geiping\*, Steven Reich, <u>Yuxin Wen</u>, Wojtek Czaja, Micah Goldblum, Tom Goldstein \\
-_Under Review._ \\
+_Under Review_ \\
 \[[arXiv:2201.12675](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
 __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
 <u>Yuxin Wen\*</u>, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
-_ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022._
+_ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022_
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 <u>Yuxin Wen\*</u>, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
-_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022._ \\
+_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022_ \\
 \[[arXiv:2202.00580](https://arxiv.org/abs/2202.00580)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
 __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
