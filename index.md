@@ -15,7 +15,8 @@ _Under Review_ \\
 
 __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
-_ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022_
+_ICML Workshop, New Frontiers in Adversarial Machine Learning, 2022_ \\
+\[[arXiv:2210.09305](https://arxiv.org/abs/2210.09305)\]\[[code](https://github.com/YuxinWenRick/thinking-two-moves-ahead)\]
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
@@ -27,7 +28,8 @@ __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 _IEEE International Conference on Big Data, 2019_
 
 # Services
-Reviewer: ICML 2022, NeurIPS 2022
+Reviewer: ICML 2022, NeurIPS 2022 \\
+Volunteer: NeurIPS 2022
 
 # Contacts
 ywen [ at ] umd [dot] edu
