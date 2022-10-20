@@ -9,7 +9,7 @@ I am interested in computer vision and machine learning. My current research mai
 
 # Publications
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
-<u>Yuxin Wen<u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
+<u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
 \[[arXiv:2210.10750](https://arxiv.org/abs/2210.10750)\]\[[code](https://github.com/YuxinWenRick/canary-in-a-coalmine)\]
 
