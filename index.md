@@ -8,6 +8,10 @@ I am a second-year Computer Science Ph.D. student at the University of Maryland,
 I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
 # Publications
+__Styx: Adaptive Poisoning Attacks against Byzantine-Robust defenses in Federated Learning__ \\
+<u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
+_Under Review_
+
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
 <u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _NeurIPS ML Safety Workshop, 2022_ \\
@@ -33,8 +37,7 @@ __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 _IEEE International Conference on Big Data, 2019_
 
 # Services
-Reviewer: ICML 2022, NeurIPS 2022 \\
-Volunteer: NeurIPS 2022
+Reviewer: ICML 2022, NeurIPS 2022
 
 # Contacts
 ywen [ at ] umd [dot] edu
