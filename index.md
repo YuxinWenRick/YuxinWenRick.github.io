@@ -8,7 +8,7 @@ I am a second-year Computer Science Ph.D. student at the University of Maryland,
 I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
 # Publications
-__Styx: Adaptive Poisoning Attacks against Byzantine-Robust defenses in Federated Learning__ \\
+__Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
 _Under Review_
 
