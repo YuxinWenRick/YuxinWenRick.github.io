@@ -34,7 +34,7 @@ _ICML 2022_ \\
 
 __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 <u>Yuxin Wen</u>, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
-_IEEE Big Data, 2019_
+_IEEE Big Data 2019_
 
 # Services
 Reviewer: ICML 2022, NeurIPS 2022
