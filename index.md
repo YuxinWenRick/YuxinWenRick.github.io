@@ -14,27 +14,27 @@ _Under Review_
 
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
 <u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
-_ML Safety Workshop, 36th Conference on Neural Information Processing Systems (NeurIPS), 2022_ \\
+_ICLR 2023 (notable-top-25%)_ \\
 \[[arXiv:2210.10750](https://arxiv.org/abs/2210.10750)\]\[[code](https://github.com/YuxinWenRick/canary-in-a-coalmine)\]
 
 __Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__ \\
 Liam Fowl\*, Jonas Geiping\*, Steven Reich, <u>Yuxin Wen</u>, Wojtek Czaja, Micah Goldblum, Tom Goldstein \\
-_ML Safety Workshop, 36th Conference on Neural Information Processing Systems (NeurIPS), 2022_ \\
+_ICLR 2023_ \\
 \[[arXiv:2201.12675](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
 __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
-_AdvML Frontiers Workshop, 39th International Conference on Machine Learning (ICML), 2022_ \\
+_AdvML Frontiers Workshop, ICML 2022_ \\
 \[[arXiv:2210.09305](https://arxiv.org/abs/2210.09305)\]\[[code](https://github.com/YuxinWenRick/thinking-two-moves-ahead)\]
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
-_Proceedings of the 39th International Conference on Machine Learning (ICML), 2022_ \\
+_ICML 2022_ \\
 \[[arXiv:2202.00580](https://arxiv.org/abs/2202.00580)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
 __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 <u>Yuxin Wen</u>, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
-_IEEE International Conference on Big Data, 2019_
+_IEEE Big Data, 2019_
 
 # Services
 Reviewer: ICML 2022, NeurIPS 2022
