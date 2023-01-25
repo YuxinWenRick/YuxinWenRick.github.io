@@ -9,7 +9,7 @@ I am interested in computer vision and machine learning. My current research mai
 
 # Publications
 __A Watermark for Large Language Models__ \\
-John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen<u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
+John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
 _Under Review_ \\
 \[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]
 
