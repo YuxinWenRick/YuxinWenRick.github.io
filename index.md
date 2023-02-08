@@ -8,6 +8,11 @@ I am a second-year Computer Science Ph.D. student at the University of Maryland,
 I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
 # Publications
+__Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
+<u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
+_Under Review_ \\
+\[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]
+
 __A Watermark for Large Language Models__ \\
 John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
 _Under Review_ \\
