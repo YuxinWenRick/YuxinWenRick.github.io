@@ -7,7 +7,7 @@ I am a second-year Computer Science Ph.D. student at the University of Maryland,
 
 I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
-# Publications
+# Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
 <u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
@@ -18,9 +18,9 @@ John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers
 _Under Review_ \\
 \[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]
 
-__Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
+<!-- __Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
-_ICASSP 2023_
+_ICASSP 2023_ -->
 
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
 <u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
@@ -32,19 +32,19 @@ Liam Fowl\*, Jonas Geiping\*, Steven Reich, <u>Yuxin Wen</u>, Wojtek Czaja, Mica
 _ICLR 2023_ \\
 \[[paper](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
-__Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
+<!-- __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
 _AdvML Frontiers Workshop, ICML 2022_ \\
-\[[paper](https://arxiv.org/abs/2210.09305)\]\[[code](https://github.com/YuxinWenRick/thinking-two-moves-ahead)\]
+\[[paper](https://arxiv.org/abs/2210.09305)\]\[[code](https://github.com/YuxinWenRick/thinking-two-moves-ahead)\] -->
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
 _ICML 2022_ \\
 \[[paper](https://arxiv.org/abs/2202.00580)\]\[[code](https://github.com/JonasGeiping/breaching)\]
 
-__Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
+<!-- __Learning to Discover Curbside Parking Spaces from Vehicle Trajectories__ \\
 <u>Yuxin Wen</u>, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
-_IEEE Big Data 2019_
+_IEEE Big Data 2019_ -->
 
 # Services
 Reviewer: ICML 2022, NeurIPS 2022
