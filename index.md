@@ -20,7 +20,7 @@ _Under Review_ \\
 
 __Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
-_Under Review_
+_ICASSP 2023_
 
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
 <u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
