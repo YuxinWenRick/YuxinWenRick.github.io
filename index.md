@@ -2,12 +2,12 @@
 layout: default
 ---
 
-# About Me
+## About Me
 I am a second-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
 I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
 
-# Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
+## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
 <u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
@@ -46,10 +46,10 @@ _ICML 2022_ \\
 <u>Yuxin Wen</u>, Jizhou Huang, Chongli Zhu, Miao Fan, Ying Li \\
 _IEEE Big Data 2019_ -->
 
-# Services
+## Services
 Reviewer: ICML 2022, NeurIPS 2022
 
-# Contacts
+## Contacts
 ywen [ at ] umd [dot] edu
 
 Iribe Center, Office 2116  
