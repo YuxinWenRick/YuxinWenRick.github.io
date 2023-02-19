@@ -16,7 +16,7 @@ _Under Review_ \\
 __A Watermark for Large Language Models__ \\
 John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]
+\[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/lm-watermarking)\]
 
 <!-- __Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
