@@ -11,7 +11,7 @@ I am interested in computer vision and machine learning. My current research mai
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
 <u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]<iframe src="https://ghbtns.com/github-btn.html?user=YuxinWenRick&repo=hard-prompts-made-easy&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+\[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/hard-prompts-made-easy?style=social)
 
 __A Watermark for Large Language Models__ \\
 John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
