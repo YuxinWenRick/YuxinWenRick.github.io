@@ -9,14 +9,14 @@ I am interested in computer vision and machine learning. My current research mai
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
-<img align="left" src="assets/img/teaser/pez.png" width="80"/>
+<!-- <img align="left" src="assets/img/teaser/pez.png" width="80"/> -->
 
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
 <u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
 \[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/hard-prompts-made-easy?style=social)
 
-<img align="left" src="assets/img/teaser/lm_w.png" width="80"/>
+<!-- <img align="left" src="assets/img/teaser/lm_w.png" width="80"/> -->
 
 __A Watermark for Large Language Models__ \\
 John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
@@ -27,14 +27,14 @@ _ICML 2023 (Oral)_ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
 _ICASSP 2023_ -->
 
-<img align="left" src="assets/img/teaser/canary.png" width="80"/>
+<!-- <img align="left" src="assets/img/teaser/canary.png" width="80"/> -->
 
 __Canary in a Coalmine: Better Membership Inference with Ensembled Adversarial Queries__ \\
 <u>Yuxin Wen</u>, Arpit Bansal, Hamid Kazemi, Eitan Borgnia, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _ICLR 2023 (notable-top-25%)_ \\
 \[[paper](https://arxiv.org/abs/2210.10750)\]\[[code](https://github.com/YuxinWenRick/canary-in-a-coalmine)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/canary-in-a-coalmine?style=social)
 
-<img align="left" src="assets/img/teaser/decepticon.png" width="80"/>
+<!-- <img align="left" src="assets/img/teaser/decepticon.png" width="80"/> -->
 
 __Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__ \\
 Liam Fowl\*, Jonas Geiping\*, Steven Reich, <u>Yuxin Wen</u>, Wojtek Czaja, Micah Goldblum, Tom Goldstein \\
@@ -46,7 +46,7 @@ _ICLR 2023_ \\
 _AdvML Frontiers Workshop, ICML 2022_ \\
 \[[paper](https://arxiv.org/abs/2210.09305)\]\[[code](https://github.com/YuxinWenRick/thinking-two-moves-ahead)\] -->
 
-<img align="left" src="assets/img/teaser/fishing.png" width="80"/>
+<!-- <img align="left" src="assets/img/teaser/fishing.png" width="80"/> -->
 
 __Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Liam Fowl\*, Micah Goldblum, Tom Goldstein \\
