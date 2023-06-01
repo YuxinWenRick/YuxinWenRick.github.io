@@ -9,6 +9,11 @@ I am interested in computer vision and machine learning. My current research mai
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
+__Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
+<u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
+_Under Review_ \\
+\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
+
 <!-- <img align="left" src="assets/img/teaser/pez.png" width="80"/> -->
 
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
@@ -36,10 +41,10 @@ _ICLR 2023 (notable-top-25%)_ \\
 
 <!-- <img align="left" src="assets/img/teaser/decepticon.png" width="80"/> -->
 
-__Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__ \\
+<!-- __Decepticons: Corrupted Transformers Breach Privacy in Federated Learning for Language Models__ \\
 Liam Fowl\*, Jonas Geiping\*, Steven Reich, <u>Yuxin Wen</u>, Wojtek Czaja, Micah Goldblum, Tom Goldstein \\
 _ICLR 2023_ \\
-\[[paper](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]![GitHub Repo stars](https://img.shields.io/github/stars/JonasGeiping/breaching?style=social)
+\[[paper](https://arxiv.org/abs/2201.12675)\]\[[code](https://github.com/JonasGeiping/breaching)\]![GitHub Repo stars](https://img.shields.io/github/stars/JonasGeiping/breaching?style=social) -->
 
 <!-- __Thinking Two Moves Ahead: Anticipating Other Users Improves Backdoor Attacks in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping*, Liam Fowl, Hossein Souri, Rama Chellappa, Micah Goldblum, Tom Goldstein \\
