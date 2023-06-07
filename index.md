@@ -12,7 +12,7 @@ I am interested in computer vision and machine learning. My current research mai
 __Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
 <u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
+\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]\[[Yannic's Video](https://www.youtube.com/watch?v=WncUlZYpdq4)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
 
 <!-- <img align="left" src="assets/img/teaser/pez.png" width="80"/> -->
 
