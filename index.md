@@ -12,21 +12,21 @@ I am interested in computer vision and machine learning. My current research mai
 __Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
 <u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]\[[Yannic's Video](https://www.youtube.com/watch?v=WncUlZYpdq4)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
+\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]\[[tweet](https://twitter.com/jonasgeiping/status/1664379589034950659)\]\[[Yannic's Video](https://www.youtube.com/watch?v=WncUlZYpdq4)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
 
 <!-- <img align="left" src="assets/img/teaser/pez.png" width="80"/> -->
 
 __Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery__ \\
 <u>Yuxin Wen</u>\*, Neel Jain\*, John Kirchenbauer, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/hard-prompts-made-easy?style=social)
+\[[paper](https://arxiv.org/abs/2302.03668)\]\[[code](https://github.com/YuxinWenRick/hard-prompts-made-easy)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/pez-dispenser)\]\[[tweet](https://twitter.com/tomgoldsteincs/status/1623358917110538240)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/hard-prompts-made-easy?style=social)
 
 <!-- <img align="left" src="assets/img/teaser/lm_w.png" width="80"/> -->
 
 __A Watermark for Large Language Models__ \\
 John Kirchenbauer\*, Jonas Geiping\*, <u>Yuxin Wen</u>, Jonathan Katz, Ian Miers, Tom Goldstein \\
 _ICML 2023 (Oral)_ \\
-\[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/lm-watermarking)\]![GitHub Repo stars](https://img.shields.io/github/stars/jwkirchenbauer/lm-watermarking?style=social)
+\[[paper](https://arxiv.org/abs/2301.10226)\]\[[code](https://github.com/jwkirchenbauer/lm-watermarking)\]\[[demo](https://huggingface.co/spaces/tomg-group-umd/lm-watermarking)\]\[[tweet](https://twitter.com/tomgoldsteincs/status/1618287665006403585)\]![GitHub Repo stars](https://img.shields.io/github/stars/jwkirchenbauer/lm-watermarking?style=social)
 
 <!-- __Styx: Adaptive Poisoning Attacks against Byzantine-Robust Defenses in Federated Learning__ \\
 <u>Yuxin Wen</u>\*, Jonas Geiping\*, Micah Goldblum, Tom Goldstein \\
