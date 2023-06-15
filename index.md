@@ -5,14 +5,14 @@ layout: default
 ## About Me
 I am a second-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
-I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in machine learning.
+I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in generative models, including diffusion models and large language models.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
 __Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
 <u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
 _Under Review_ \\
-\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]\[[tweet](https://twitter.com/jonasgeiping/status/1664379589034950659)\]\[[Yannic's Video](https://www.youtube.com/watch?v=WncUlZYpdq4)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
+\[[paper](https://arxiv.org/abs/2305.20030)\]\[[code](https://github.com/YuxinWenRick/tree-ring-watermark)\]\[[tweet](https://twitter.com/jonasgeiping/status/1664379589034950659)\]\[[Yannic's video](https://www.youtube.com/watch?v=WncUlZYpdq4)\]![GitHub Repo stars](https://img.shields.io/github/stars/YuxinWenRick/tree-ring-watermark?style=social)
 
 <!-- <img align="left" src="assets/img/teaser/pez.png" width="80"/> -->
 
