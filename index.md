@@ -69,4 +69,7 @@ Iribe Center, Office 2116
 College Park, MD 20742
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuxinwenrick-personal-page) -->
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RR5TRT2xrP_T80ygquSOWeR81AQQQHY-1g6Bfooe_ks"></script> -->
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RR5TRT2xrP_T80ygquSOWeR81AQQQHY-1g6Bfooe_ks" width="20" height="20"></script>
+<script type="text/javascript">
+  document.getElementById("clstr_globe").style.display = "none";
+</script>
