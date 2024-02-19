@@ -14,6 +14,11 @@ __Detecting, Explaining, and Mitigating Memorization in Diffusion Models__ \\
 _ICLR 2024 (<span style="color:#A52A2A">Oral</span>)_ \\
 [paper](https://openreview.net/forum?id=84n3UwkH7b&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))
 
+__NEFTune: Noisy Embeddings Improve Instruction Finetuning__ \\
+Neel Jain\*, Ping-yeh Chiang\*, <u>Yuxin Wen</u>\*, John Kirchenbauer, Hong-Min Chu, Gowthami Somepalli, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
+_ICLR 2024_ \\
+[paper](https://arxiv.org/abs/2310.05914) | [code](https://github.com/neelsjain/NEFTune) | [tweet](https://x.com/tomgoldsteincs/status/1712498076340932855?s=20)
+
 __Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
 <u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
 _NeurIPS 2023_ \\
