@@ -12,7 +12,7 @@ I am interested in computer vision and machine learning. My current research mai
 __Detecting, Explaining, and Mitigating Memorization in Diffusion Models__ \\
 <u>Yuxin Wen</u>, Yuchen Liu, Chen Chen, Lingjuan Lyu \\
 _ICLR 2024 (<span style="color:#A52A2A">Oral</span>)_ \\
-[paper](https://openreview.net/forum?id=84n3UwkH7b&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2024%2FConference%2FAuthors%23your-submissions))
+[paper](https://openreview.net/forum?id=84n3UwkH7b) | [code](https://github.com/YuxinWenRick/diffusion_memorization)
 
 __NEFTune: Noisy Embeddings Improve Instruction Finetuning__ \\
 Neel Jain\*, Ping-yeh Chiang\*, <u>Yuxin Wen</u>\*, John Kirchenbauer, Hong-Min Chu, Gowthami Somepalli, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
