@@ -3,11 +3,16 @@ layout: default
 ---
 
 ## About Me
-I am a third-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
+I am a fourth-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
-I am interested in computer vision and machine learning. My current research mainly focuses on security and privacy in generative models, including diffusion models and large language models.
+I am interested in computer vision and machine learning. I recently work on efficient vision-language models. My research also focuses on security and privacy specially in generative models, including diffusion models and large language models.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
+
+__Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models__ \\
+<u>Yuxin Wen</u>, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini \\
+_NeurIPS 2024_ \\
+[paper](https://arxiv.org/abs/2404.01231)
 
 __Detecting, Explaining, and Mitigating Memorization in Diffusion Models__ \\
 <u>Yuxin Wen</u>, Yuchen Liu, Chen Chen, Lingjuan Lyu \\
@@ -45,6 +50,8 @@ _ICML 2022_ \\
 [paper](https://arxiv.org/abs/2202.00580) | [code](https://github.com/JonasGeiping/breaching)
 
 ## Experience
+- **Summer 2024**, Research Intern, Apple, advised by [Dr. Mahyar Najibi](https://www.mahyarnajibi.com/)
+
 - **Fall 2023**, Student Researcher, Google DeepMind, advised by [Dr. Nicholas Carlini](https://nicholas.carlini.com/)
 
 - **Summer 2023**, Research Intern, Sony AI, advised by [Dr. Lingjuan Lv](https://sites.google.com/view/lingjuan-lyu/home)
