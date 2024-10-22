@@ -5,7 +5,7 @@ layout: default
 ## About Me
 I am a fourth-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
-I am interested in computer vision and machine learning. My research also focuses on security and privacy, especially in generative models, including diffusion models and large language models. I also recently worked on efficient vision-language models.
+I am interested in computer vision and machine learning. My research mainly focuses on privacy and security, especially in generative models, including diffusion models and large language models. I also recently worked on efficient vision-language models.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
