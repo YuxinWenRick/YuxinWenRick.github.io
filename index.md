@@ -12,7 +12,7 @@ I am interested in computer vision and machine learning. My research mainly focu
 __Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models__ \\
 <u>Yuxin Wen</u>, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini \\
 _NeurIPS 2024_ \\
-[paper](https://arxiv.org/abs/2404.01231)
+[paper](https://arxiv.org/abs/2404.01231) | [code](https://github.com/YuxinWenRick/privacy-backdoors)
 
 __Detecting, Explaining, and Mitigating Memorization in Diffusion Models__ \\
 <u>Yuxin Wen</u>, Yuchen Liu, Chen Chen, Lingjuan Lyu \\
