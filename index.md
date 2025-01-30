@@ -5,7 +5,7 @@ layout: default
 ## About Me
 I am a fourth-year Computer Science Ph.D. student at the University of Maryland, College Park, advised by [Prof. Tom Goldstein](https://www.cs.umd.edu/~tomg/). 
 
-I am interested in computer vision and machine learning. My research mainly focuses on privacy and security, especially in generative models, including diffusion models and large language models. I also recently worked on efficient vision-language models.
+I am interested in computer vision and machine learning. My research mainly focuses on privacy and security, especially in generative models, including diffusion models and large language models.
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
@@ -50,6 +50,8 @@ _ICML 2022_ \\
 [paper](https://arxiv.org/abs/2202.00580) | [code](https://github.com/JonasGeiping/breaching)
 
 ## Experience
+- **Spring 2025**, Student Researcher, Google AI, advised by [Dr. Chiyuan Zhang](https://pluskid.org/)
+
 - **Summer 2024**, Research Intern, Apple, advised by [Dr. Mahyar Najibi](https://www.mahyarnajibi.com/)
 
 - **Fall 2023**, Student Researcher, Google DeepMind, advised by [Dr. Nicholas Carlini](https://nicholas.carlini.com/)
