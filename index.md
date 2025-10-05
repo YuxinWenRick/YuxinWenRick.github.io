@@ -9,6 +9,11 @@ I am interested in computer vision and machine learning. My research mainly focu
 
 ## Selected Publications \[[Full List](https://scholar.google.com/citations?user=oUYfjg0AAAAJ&hl=en)\]
 
+__Quantifying Cross-Modality Memorization in Vision-Language Models__ \\
+<u>Yuxin Wen</u>, Yangsibo Huang, Tom Goldstein, Ravi Kumar, Badih Ghazi, Chiyuan Zhang \\
+_NeurIPS 2025_ \\
+[paper](https://arxiv.org/abs/2506.05198)
+
 __Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models__ \\
 <u>Yuxin Wen</u>, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini \\
 _NeurIPS 2024_ \\
@@ -18,11 +23,6 @@ __Detecting, Explaining, and Mitigating Memorization in Diffusion Models__ \\
 <u>Yuxin Wen</u>, Yuchen Liu, Chen Chen, Lingjuan Lyu \\
 _ICLR 2024 (<span style="color:#A52A2A">Oral</span>)_ \\
 [paper](https://openreview.net/forum?id=84n3UwkH7b) | [code](https://github.com/YuxinWenRick/diffusion_memorization)
-
-__NEFTune: Noisy Embeddings Improve Instruction Finetuning__ \\
-Neel Jain\*, Ping-yeh Chiang\*, <u>Yuxin Wen</u>\*, John Kirchenbauer, Hong-Min Chu, Gowthami Somepalli, Brian R. Bartoldson, Bhavya Kailkhura, Avi Schwarzschild, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein \\
-_ICLR 2024_ \\
-[paper](https://arxiv.org/abs/2310.05914) | [code](https://github.com/neelsjain/NEFTune) | [tweet](https://x.com/tomgoldsteincs/status/1712498076340932855?s=20)
 
 __Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust__ \\
 <u>Yuxin Wen</u>, John Kirchenbauer, Jonas Geiping, Tom Goldstein \\
